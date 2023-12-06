@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-[Home page](https://c12f7668939749288ee3ac66a09a3506.app.posit.cloud/p/83ddc230/)
+[Home Page](https://laurenprentice.github.io/mywebsiteprentice/index.html)
 
 ## Nationalism Final Exam
 
