@@ -1,0 +1,29 @@
+---
+title: "Home Page"
+format: html
+editor: visual
+---
+
+# Hello!
+
+Welcome to my webpage. Below you will find numerous links to different sources. These include:
+
+1.  My resume
+
+2.  An interactive county census analysis and map visualization of Florida
+
+3.  A link to a writing sample
+
+4.  A news article I have written
+
+# ^Resume:^ 
+
+Below you will find my resume!
+
+![](Screen Shot 2023-12-05 at 7.48.50 PM.png)
+
+# Florida County Census Analysis and Map:
+
+# Article written by me:
+
+This [link](https://c12f7668939749288ee3ac66a09a3506.app.posit.cloud/p/1f435268/) will take you to the exam I wrote for my Nationalism class in my Fall semester of my junior year of college!
