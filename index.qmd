@@ -34,4 +34,4 @@ This [link](https://laurenprentice.github.io/mywebsiteprentice/personal%20essay.
 
 # News Article:
 
-Linked is a news article about the issues students were having with the vexes on campus during Covid-19
+[Linked](https://laurenprentice.github.io/mywebsiteprentice/bus.html) is a news article about the issues students were having with the vexes on campus during Covid-19
