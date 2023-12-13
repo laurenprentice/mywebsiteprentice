@@ -16,18 +16,20 @@ Welcome to my webpage. Below you will find numerous links to different sources. 
 
 4.  A news article I have written
 
-# ^Resume:^ 
+# ^Resume:^
 
 Below you will find my resume!
 
-![](Screen Shot 2023-12-05 at 7.48.50 PM.png)
+![](Screen%20Shot%202023-12-05%20at%207.48.50%20PM.png)
 
 # Florida County Census Analysis and Map:
+
+This link will lead you to my county census analysis and map of Florida
 
 # Article written by me:
 
 This [link](https://laurenprentice.github.io/mywebsiteprentice/personal%20essay.html) will take you to the exam I wrote for my Nationalism class in my Fall semester of my junior year of college!
 
-# News Article: 
+# News Article:
 
 Linked is a news article about the issues students were having with the vexes on campus during Covid-19
