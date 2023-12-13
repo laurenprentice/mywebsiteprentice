@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-Home Page
+[Home Page](https://laurenprentice.github.io/mywebsiteprentice/index.html)
 
 ## Covid-19 and George Washington's Vex System
 
