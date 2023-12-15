@@ -1,0 +1,11 @@
+---
+title: "resume"
+format: html
+editor: visual
+---
+
+Home page
+
+## Resume:
+
+![](Resume -3.pdf)

@@ -6,7 +6,13 @@ editor: visual
 
 # Hello!
 
+![](Screen Shot 2023-12-14 at 11.14.57 AM.png)
+
 My name is Lauren Prentice. I'm a senior at GW. I study Political Science with a minor in Journalism and Mass Communication.
+
+You can contact me at (727)-465-6962 or laurenprentice\@gwu.edu
+
+Here is the link to my github: [Github Dashboard](https://github.com/dashboard)
 
 Welcome to my webpage. Below you will find numerous links to different sources. These include:
 
