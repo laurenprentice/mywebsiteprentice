@@ -6,8 +6,6 @@ editor: visual
 
 # Hello!
 
-![](Screen%20Shot%202023-12-14%20at%2011.14.57%20AM.png)
-
 My name is Lauren Prentice. I'm a senior at GW. I study Political Science with a minor in Journalism and Mass Communication.
 
 Welcome to my webpage. Below you will find numerous links to different sources. These include:

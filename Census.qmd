@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-home page
+[home page](https://laurenprentice.github.io/mywebsiteprentice/index.html)
 
 ## Census Data and Map
 
