@@ -24,7 +24,7 @@ Welcome to my webpage. Below you will find numerous links to different sources. 
 
 4.  A news article I have written
 
-# ^Resume:^ 
+# ^Resume:^
 
 Here is my [resume](https://laurenprentice.github.io/mywebsiteprentice/resume.html)
 
