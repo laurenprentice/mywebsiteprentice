@@ -8,4 +8,4 @@ editor: visual
 
 ## Resume:
 
-![](Screen Shot 2023-12-05 at 7.48.50 PM.png)
+![](Screen%20Shot%202023-12-05%20at%207.48.50%20PM.png)
