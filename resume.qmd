@@ -4,8 +4,8 @@ format: html
 editor: visual
 ---
 
-Home page
+[Home page](https://laurenprentice.github.io/mywebsiteprentice/index.html)
 
 ## Resume:
 
-![](Resume%20-3.pdf)
+![](Screen Shot 2023-12-05 at 7.48.50 PM.png)
