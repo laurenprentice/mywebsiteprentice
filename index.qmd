@@ -26,7 +26,13 @@ Below you will find my resume!
 
 # Florida County Census Analysis and Map:
 
-This link will lead you to my county census analysis and map of Florida
+Here are the steps I took in order to find the data below:
+
+1.  The first step was to upload the census key so that all the data would be in PositCloud for me to pull from
+2.  I then has to upload the median ages, income and population for the US so that the data would be properly uploaded
+3.  I then pulled these different variables for Florida since that was my chosen state![](Screen Shot 2023-12-13 at 5.12.36 PM.png)
+
+![](Screen Shot 2023-12-13 at 5.10.56 PM.png)
 
 # Article written by me:
 
