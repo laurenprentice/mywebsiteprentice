@@ -36,7 +36,10 @@ Here are the steps I took in order to find the data below:
 
 1.  The first step was to upload the census key so that all the data would be in PositCloud for me to pull from
 2.  I then has to upload the median ages, income and population for the US so that the data would be properly uploaded
-3.  I then pulled these different variables for Florida since that was my chosen state![](Screen%20Shot%202023-12-13%20at%205.12.36%20PM.png)
+3.  I then pulled these different variables for Florida since that was my chosen state
+4.  I did this by gathering the data from the 2017-2021 ACS, using the feature geometry from the census I was able to use simple feature collection to obtain only the data I needed
+5.  I then was able to use the code to put it into map view
+6.  ![](Screen%20Shot%202023-12-13%20at%205.12.36%20PM.png)
 
 ![](Screen%20Shot%202023-12-13%20at%205.10.56%20PM.png)
 
